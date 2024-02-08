@@ -1,0 +1,14 @@
+C:\C# - Exception\ExceptionTryCatch\ExceptionTryCatch\bin\Debug\net7.0\ExceptionTryCatch.exe
+C:\C# - Exception\ExceptionTryCatch\ExceptionTryCatch\bin\Debug\net7.0\ExceptionTryCatch.deps.json
+C:\C# - Exception\ExceptionTryCatch\ExceptionTryCatch\bin\Debug\net7.0\ExceptionTryCatch.runtimeconfig.json
+C:\C# - Exception\ExceptionTryCatch\ExceptionTryCatch\bin\Debug\net7.0\ExceptionTryCatch.dll
+C:\C# - Exception\ExceptionTryCatch\ExceptionTryCatch\bin\Debug\net7.0\ExceptionTryCatch.pdb
+C:\C# - Exception\ExceptionTryCatch\ExceptionTryCatch\obj\Debug\net7.0\ExceptionTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# - Exception\ExceptionTryCatch\ExceptionTryCatch\obj\Debug\net7.0\ExceptionTryCatch.AssemblyInfoInputs.cache
+C:\C# - Exception\ExceptionTryCatch\ExceptionTryCatch\obj\Debug\net7.0\ExceptionTryCatch.AssemblyInfo.cs
+C:\C# - Exception\ExceptionTryCatch\ExceptionTryCatch\obj\Debug\net7.0\ExceptionTryCatch.csproj.CoreCompileInputs.cache
+C:\C# - Exception\ExceptionTryCatch\ExceptionTryCatch\obj\Debug\net7.0\ExceptionTryCatch.dll
+C:\C# - Exception\ExceptionTryCatch\ExceptionTryCatch\obj\Debug\net7.0\refint\ExceptionTryCatch.dll
+C:\C# - Exception\ExceptionTryCatch\ExceptionTryCatch\obj\Debug\net7.0\ExceptionTryCatch.pdb
+C:\C# - Exception\ExceptionTryCatch\ExceptionTryCatch\obj\Debug\net7.0\ExceptionTryCatch.genruntimeconfig.cache
+C:\C# - Exception\ExceptionTryCatch\ExceptionTryCatch\obj\Debug\net7.0\ref\ExceptionTryCatch.dll

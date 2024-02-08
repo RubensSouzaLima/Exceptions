@@ -1,0 +1,14 @@
+C:\C# - Exception\ExceptionFinally\ExceptionFinally\bin\Debug\net7.0\ExceptionFinally.exe
+C:\C# - Exception\ExceptionFinally\ExceptionFinally\bin\Debug\net7.0\ExceptionFinally.deps.json
+C:\C# - Exception\ExceptionFinally\ExceptionFinally\bin\Debug\net7.0\ExceptionFinally.runtimeconfig.json
+C:\C# - Exception\ExceptionFinally\ExceptionFinally\bin\Debug\net7.0\ExceptionFinally.dll
+C:\C# - Exception\ExceptionFinally\ExceptionFinally\bin\Debug\net7.0\ExceptionFinally.pdb
+C:\C# - Exception\ExceptionFinally\ExceptionFinally\obj\Debug\net7.0\ExceptionFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# - Exception\ExceptionFinally\ExceptionFinally\obj\Debug\net7.0\ExceptionFinally.AssemblyInfoInputs.cache
+C:\C# - Exception\ExceptionFinally\ExceptionFinally\obj\Debug\net7.0\ExceptionFinally.AssemblyInfo.cs
+C:\C# - Exception\ExceptionFinally\ExceptionFinally\obj\Debug\net7.0\ExceptionFinally.csproj.CoreCompileInputs.cache
+C:\C# - Exception\ExceptionFinally\ExceptionFinally\obj\Debug\net7.0\ExceptionFinally.dll
+C:\C# - Exception\ExceptionFinally\ExceptionFinally\obj\Debug\net7.0\refint\ExceptionFinally.dll
+C:\C# - Exception\ExceptionFinally\ExceptionFinally\obj\Debug\net7.0\ExceptionFinally.pdb
+C:\C# - Exception\ExceptionFinally\ExceptionFinally\obj\Debug\net7.0\ExceptionFinally.genruntimeconfig.cache
+C:\C# - Exception\ExceptionFinally\ExceptionFinally\obj\Debug\net7.0\ref\ExceptionFinally.dll
